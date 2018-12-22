@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-@Auth:                  jackie.yuan
-@Email:                 13772002022@163.com
 @Description:           get godaddy's domains infomation
 """
 
